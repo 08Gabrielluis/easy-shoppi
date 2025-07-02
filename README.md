@@ -5,3 +5,5 @@
 
 
 <img src="https://github.com/08Gabrielluis/easy-shoppi/blob/main/img/gitprojeto2i1.png?raw=true" />
+
+<img src="https://github.com/08Gabrielluis/easy-shoppi/blob/main/img/gitprojeto2i2.png?raw=true" />
